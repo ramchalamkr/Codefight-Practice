@@ -1,0 +1,5 @@
+/media/ramchalamkr/DriveG/McGill/Code-fight/Codefight-Practice/Arrays/FirstNonRepeatingCharacter/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/ramchalamkr/DriveG/McGill/Code-fight/Codefight-Practice/Arrays/FirstNonRepeatingCharacter/bin/Debug/FirstNonRepeatingCharacter.pdb
+/media/ramchalamkr/DriveG/McGill/Code-fight/Codefight-Practice/Arrays/FirstNonRepeatingCharacter/bin/Debug/FirstNonRepeatingCharacter.exe
+/media/ramchalamkr/DriveG/McGill/Code-fight/Codefight-Practice/Arrays/FirstNonRepeatingCharacter/obj/x86/Debug/FirstNonRepeatingCharacter.exe
+/media/ramchalamkr/DriveG/McGill/Code-fight/Codefight-Practice/Arrays/FirstNonRepeatingCharacter/obj/x86/Debug/FirstNonRepeatingCharacter.pdb
